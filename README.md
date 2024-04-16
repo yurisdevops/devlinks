@@ -39,6 +39,3 @@ Apenas usuários administradores têm permissão para editar e alterar qualquer 
 
 Acesse a aplicação em produção https://devlinks-steel.vercel.app/
 
-## Repositório
-
-Confira o código-fonte do projeto no repositório https://github.com/yurisdevops/devlinks
