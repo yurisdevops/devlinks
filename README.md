@@ -26,7 +26,7 @@ DEVLINK é uma aplicação web que emula o popular serviço de agrupamento de li
 
 2. **Instale as Dependências:**
    ```
-   cd devlink
+   cd devlinks
    npm install
    ```
 
