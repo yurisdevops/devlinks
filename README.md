@@ -47,7 +47,7 @@ DEVLINK é uma aplicação web que emula o popular serviço de agrupamento de li
 
 ### Demonstração
 
-Uma demo do projeto pode ser acessada [DevLink](https://devlinks-steel.vercel.app/)
+Uma demo do projeto pode ser acessada [DevLinks](https://devlinks-steel.vercel.app/)
 
 
 ---
