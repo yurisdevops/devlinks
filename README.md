@@ -51,5 +51,17 @@ Uma demo do projeto pode ser acessada https://devlinks-steel.vercel.app/
 
 
 ---
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue caso encontre algum problema ou para propor melhorias. Se deseja contribuir com código, por favor, siga estas etapas:
+1. Fork o repositório
+2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
+3. Faça commit de suas mudanças (`git commit -am 'Adiciona MinhaFeature'`)
+4. Faça push para a branch (`git push origin feature/MinhaFeature`)
+5. Abra um Pull Request
 
+## Licença
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+--- 
+
+Lembre-se de substituir "Inserir link de acesso ao deploy aqui" pelo link real do deploy do seu projeto.
 Sinta-se à vontade para contribuir com sugestões, correções ou novas funcionalidades! 😊🚀
