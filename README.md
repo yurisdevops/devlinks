@@ -21,7 +21,7 @@ DEVLINK é uma aplicação web que emula o popular serviço de agrupamento de li
 
 1. **Clone o Repositório:**
    ```
-   git clone https://github.com/seu-usuario/devlink.git
+   git clone https://github.com/seu-usuario/devlinks.git
    ```
 
 2. **Instale as Dependências:**
