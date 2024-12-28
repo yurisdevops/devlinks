@@ -1,6 +1,3 @@
-Aqui está o **README** padronizado conforme o modelo do **DevShop**:
-
-```markdown
 # DEVLINK
 
 > Aplicação web para organização e compartilhamento de links, inspirada no Linktree.
