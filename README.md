@@ -78,7 +78,7 @@ yarn dev
 
 ### 4. Abrir no Navegador:
 
-Acesse a aplicação em [DevLinks](https://devlinks-steel.vercel.app).
+Acesse a aplicação em [DevLinks/Login](https://devlinks-steel.vercel.app/login). Utilize o usuário e senha de teste: **admin@admin.com** e **123456**. Após o login, você pode ver os links em [DevLinks](https://devlinks-steel.vercel.app).
 
 ## Deploy na Vercel
 
@@ -117,4 +117,3 @@ Este projeto está licenciado sob a [MIT License](https://opensource.org/license
 ---
 
 ### 🌟 **Organize e compartilhe seus links com o DEVLINK!**
-
