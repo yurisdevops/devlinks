@@ -62,23 +62,7 @@ Com `yarn`:
 yarn install
 ```
 
-### 3. Configurar o Firebase:
-
-1. Crie um projeto no [Firebase](https://firebase.google.com/).
-2. Adicione as credenciais de configuração no arquivo `.env`:
-
-```env
-VITE_FIREBASE_API_KEY=SEU_API_KEY
-VITE_FIREBASE_AUTH_DOMAIN=SEU_AUTH_DOMAIN
-VITE_FIREBASE_PROJECT_ID=SEU_PROJECT_ID
-VITE_FIREBASE_STORAGE_BUCKET=SEU_STORAGE_BUCKET
-VITE_FIREBASE_MESSAGING_SENDER_ID=SEU_MESSAGING_SENDER_ID
-VITE_FIREBASE_APP_ID=SEU_APP_ID
-```
-
-3. Ative o método de autenticação desejado no painel do Firebase.
-
-### 4. Iniciar o Servidor de Desenvolvimento:
+### 3. Iniciar o Servidor de Desenvolvimento:
 
 Com `npm`:
 
@@ -92,7 +76,7 @@ Com `yarn`:
 yarn dev
 ```
 
-### 5. Abrir no Navegador:
+### 4. Abrir no Navegador:
 
 Acesse a aplicação em [DevLinks](https://devlinks-steel.vercel.app).
 
@@ -103,8 +87,17 @@ Este projeto está hospedado na **Vercel**. Para fazer o deploy, siga estas etap
 1. Crie uma conta na [Vercel](https://vercel.com/), se ainda não tiver uma.
 2. Clique em **"New Project"** no painel da Vercel.
 3. Conecte sua conta do GitHub e selecione este repositório.
-4. Configure as variáveis de ambiente conforme o arquivo `.env`.
+4. O Vercel detectará automaticamente o tipo de projeto e configurará o deploy para você.
 5. Clique em **Deploy** e aguarde a publicação. Após o deploy, o link para acessar a aplicação será fornecido.
+
+## Estrutura do Projeto
+
+- **`public`**: Arquivos públicos.
+- **`src`**:
+  - **`Routes`**: Configuração de rotas.
+  - **`components`**: Componentes reutilizáveis.
+  - **`pages`**: Páginas principais.
+  - **`services`**: Serviços da aplicação.
 
 ## Contribuição
 
@@ -124,4 +117,4 @@ Este projeto está licenciado sob a [MIT License](https://opensource.org/license
 ---
 
 ### 🌟 **Organize e compartilhe seus links com o DEVLINK!**
-```
+
